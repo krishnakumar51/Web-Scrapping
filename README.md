@@ -21,5 +21,10 @@ This project is a Flask-based web application that allows users to scrape produc
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgment
+We would like to express our gratitude to the developers of the following tools and libraries that were instrumental in the development of this application:
 
-We would like to acknowledge the contributions of the open-source community for their valuable tools and libraries that made this project possible.
+- Flask: A micro web framework for Python.
+- BeautifulSoup: A Python library for web scraping.
+- Requests: An elegant and simple HTTP library for Python.
+- Flask-CORS: A Flask extension for handling Cross-Origin Resource Sharing (CORS).
+- pymongo: A Python driver for MongoDB.
